@@ -12,7 +12,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -53,7 +53,6 @@
 	<classpathentry kind="lib" path="E:/Selenium/selenium-java-3.0.0/client-combined-3.0.0-nodeps.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AKSHAY/Downloads/ATUTestRecorder_2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AKSHAY/Downloads/sqljdbc4-2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/AKSHAY/Downloads/testng-6.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AKSHAY/Downloads/org.testng.eclipse.maven_6.14.0.201802161500.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AKSHAY/Downloads/selenium-server-standalone-2.48.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AKSHAY/Downloads/java-client-4.1.2.jar"/>
