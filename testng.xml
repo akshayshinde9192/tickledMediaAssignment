@@ -5,6 +5,11 @@
     <classes>
       <class name="FirstMaven.tickledMedia.oneGo"/>
       <class name="testSuite.smokeOne"/>
+      <class name="com.setup.baseSetUp"/>
+      <class name="com.setup.testCase1"/>
+      <class name="com.setup.testCase2"/>
+      <class name="com.setup.testCase3"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
